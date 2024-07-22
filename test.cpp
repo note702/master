@@ -7,4 +7,5 @@ int main(){
     printf("ok");
 
     printf("information");
+    printf("info");
 }
